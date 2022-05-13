@@ -20,7 +20,7 @@ in the test data not seen in training should be treated as &lt;unk\&gt;.</li>
   <li>Fourth item</li>
 </ol>
 
-###### TRAINING MODELS
+###### Training Models
 <ol>
     <li>A unigram maximum likelihood model.</li>
     <li>A bigram maximum likelihood model.</li>
