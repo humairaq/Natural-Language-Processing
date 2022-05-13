@@ -1,6 +1,6 @@
 # Language Modeling
 
-#### Open in directory containing the following files:
+#### Open directory containing the following files:
 * main.py
 * train-Spring2022.txt
 * test.txt
